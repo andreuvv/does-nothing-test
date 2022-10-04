@@ -3,4 +3,4 @@ function doesNothing(a, b) {
     return x;
 }
 
-module.exports = doesNothing;
+export default doesNothing;
