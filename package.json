@@ -1,0 +1,23 @@
+{
+  "name": "does-nothing",
+  "version": "1.0.0",
+  "description": "just a test on npm libraries",
+  "main": "app.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreuvv/does-nothing-test.git"
+  },
+  "keywords": [
+    "library",
+    "does-nothing"
+  ],
+  "author": "Andre <veanve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreuvv/does-nothing-test/issues"
+  },
+  "homepage": "https://github.com/andreuvv/does-nothing-test#readme"
+}
