@@ -1,6 +1,6 @@
 {
   "name": "does-nothing",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "just a test on npm libraries",
   "main": "app.js",
   "type": "module",
