@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "just a test on npm libraries",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "nothing"
   },
